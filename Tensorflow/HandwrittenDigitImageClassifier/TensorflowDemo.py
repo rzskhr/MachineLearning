@@ -142,3 +142,4 @@ with tf.Session() as sess:
 # $ tensorboard --logdir = /Users/Raj/Root/Code/TF/logs/
 
 # ref: https://goo.gl/6pFKQt
+
