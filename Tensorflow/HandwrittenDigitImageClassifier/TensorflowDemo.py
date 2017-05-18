@@ -8,6 +8,7 @@ import tensorflow as tf
 #      - and formats the data
 
 # Forked from https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/input_data.py
+
 import input_data
 mnist = input_data.read_data_sets("/Users/Raj/Root/Code/TF/data/", one_hot =True)
 
